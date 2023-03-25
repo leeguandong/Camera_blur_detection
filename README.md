@@ -3,4 +3,6 @@
 
 fastdeploy-win-x64-1.0.2
 
-opencv
+opencv     
+
+https://blog.csdn.net/u012193416/article/details/128713374?spm=1001.2014.3001.5501
